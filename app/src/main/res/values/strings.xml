@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Iman Tracker</string>
+    <string-array name="duration_array">
+        <item>1 Week</item>
+        <item>2 Weeks</item>
+        <item>1 Month</item>
+        <item>3 Months</item>
+        <item>6 Months</item>
+        <item>1 Year</item>
+    </string-array>
+    <string-array name="frequency_array">
+        <item>Once per day</item>
+        <item>Thrice a day</item>
+        <item>5 Times a day</item>
+        <item>After every Salah</item>
+        <item>Every Hour</item>
+        <item>Before Bed</item>
+    </string-array>
+    <string-array name="alarm_array">
+        <item>Default Tone</item>
+        <item>Custom</item>
+    </string-array>
+    <string name="title_activity_habit_progress">HabitProgress</string>
+</resources>
